@@ -1,0 +1,5 @@
+path,scenario,reachable_units,first_risk_share_week,eligible_share,coverage_share,months_q0,months_q1,months_q2,annual_direct_rub,development_q2_rub
+family,base,100000,0.009,0.5,0.8,0.25,0.35,0.30,1000000,1500000
+family,adverse,100000,0.004,0.25,0.6,0.05,0.10,0.10,1000000,1500000
+own,base,40000,0.018,0.65,0.8,0.18,0.25,0.20,800000,1000000
+own,adverse,40000,0.008,0.3,0.6,0.04,0.08,0.08,800000,1000000

@@ -1,0 +1,255 @@
+{
+  "sources": {
+    "E1": {
+      "name": "",
+      "locator": ""
+    }
+  },
+  "pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    {
+      "role": "problem",
+      "kind": "table",
+      "section": "Причина проблемы",
+      "title": "",
+      "context": "",
+      "implication": "",
+      "notes": "",
+      "refs": [
+        "E1"
+      ],
+      "columns": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "role": "alternatives",
+      "kind": "table",
+      "section": "Альтернативы клиента",
+      "title": "",
+      "context": "",
+      "implication": "",
+      "notes": "",
+      "refs": [
+        "E1"
+      ],
+      "columns": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "role": "reach",
+      "kind": "table",
+      "section": "Доступный спрос",
+      "title": "",
+      "context": "",
+      "implication": "",
+      "notes": "",
+      "refs": [
+        "E1"
+      ],
+      "columns": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "role": "communication",
+      "kind": "table",
+      "section": "Коммуникации",
+      "title": "",
+      "context": "",
+      "implication": "",
+      "notes": "",
+      "refs": [
+        "E1"
+      ],
+      "columns": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "role": "validation",
+      "kind": "table",
+      "section": "Проверка эффекта",
+      "title": "",
+      "context": "",
+      "implication": "",
+      "notes": "",
+      "refs": [
+        "E1"
+      ],
+      "columns": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "role": "finance",
+      "kind": "table",
+      "section": "Экономика проекта",
+      "title": "",
+      "context": "",
+      "implication": "",
+      "notes": "",
+      "refs": [
+        "E1"
+      ],
+      "columns": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "role": "sensitivity",
+      "kind": "table",
+      "section": "Порог изменения выбора",
+      "title": "",
+      "context": "",
+      "implication": "",
+      "notes": "",
+      "refs": [
+        "E1"
+      ],
+      "columns": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "role": "execution",
+      "kind": "table",
+      "section": "Исполнение",
+      "title": "",
+      "context": "",
+      "implication": "",
+      "notes": "",
+      "refs": [
+        "E1"
+      ],
+      "columns": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "agenda": [
+    {
+      "label": "Вывод и механики",
+      "from": 2,
+      "to": 4
+    },
+    {
+      "label": "Экономика и решение",
+      "from": 5,
+      "to": 6
+    },
+    {
+      "label": "Клиент и проверка",
+      "from": 7,
+      "to": 11
+    },
+    {
+      "label": "Модель и исполнение",
+      "from": 12,
+      "to": 14
+    }
+  ],
+  "consulting_style": {
+    "project": "Стратегия продукта",
+    "tabs": [
+      "Вывод",
+      "Стратегия",
+      "Проверка",
+      "Экономика"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+work/
+demo/family/Пример брифа.pdf
+__pycache__/
+.DS_Store
+.env
+.env.*
+
+План спринта.md

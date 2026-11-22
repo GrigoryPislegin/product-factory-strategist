@@ -1,0 +1,13 @@
+{
+  "format_version": 2,
+  "delivery_version": 1,
+  "require_executive_summary": true,
+  "level": "standard",
+  "stage": "research",
+  "question": "",
+  "next_step": "",
+  "options": [],
+  "decision": null,
+  "presentation": null,
+  "output": null
+}

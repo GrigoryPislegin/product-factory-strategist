@@ -1,0 +1,17 @@
+option,scenario,period,units,additional_per_unit,margin,operating,investment,source
+reminders,base,А,5,0.5,300,100,800,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+reminders,base,Б,4,0.5,300,100,0,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+reminders,base,В,2,0.5,300,100,0,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+reminders,base,Г,1,0.5,300,100,0,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+reminders,stress,А,5,0.1,300,100,800,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+reminders,stress,Б,4,0.1,300,100,0,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+reminders,stress,В,2,0.1,300,100,0,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+reminders,stress,Г,1,0.1,300,100,0,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+queue_offer,base,А,4,0.5,300,100,800,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+queue_offer,base,Б,2,0.5,300,100,0,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+queue_offer,base,В,2,0.5,300,100,0,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+queue_offer,base,Г,1,0.5,300,100,0,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+queue_offer,stress,А,4,0.1,300,100,800,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+queue_offer,stress,Б,2,0.1,300,100,0,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+queue_offer,stress,В,2,0.1,300,100,0,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
+queue_offer,stress,Г,1,0.1,300,100,0,../attendance.csv и ../review.md; конверсия и смета — учебные допущения; ₽
